@@ -1,7 +1,5 @@
-[![Dyna Logo](https://github.com/dyna-press/dyna-assets/raw/master/dyna-logo-250.png "Dyna Logo")](https://dyna.press)
+[![Dyna Logo](https://github.com/dyna-press/dyna-assets/raw/master/dyna-logo/dyna-logo-150.png "Dyna Logo")](https://dyna.press)
 
-# Dyna Assets
+# Dyna Freepix
 
-Central storage for Dyna Assets. Visit the main repo here: https://github.com/dyna-press/dyna
-
-This is no open licence repo. Some images may have copyrights. Please do not use images from copyright-folder without permission.
+Collection of free imaginery for theming, please respect the licence added. Something wrong? Place an issue in the main repo: https://github.com/dyna-press/dyna/issues
